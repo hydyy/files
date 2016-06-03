@@ -1,0 +1,66 @@
+{
+  "packages": {
+      "plugins": [
+      {
+        "name": "Peckham",
+        "url": "https://github.com/markohlebar/Peckham",
+        "description": "Add #import-s from anywhere in the code.",
+        "screenshot": "https://raw.githubusercontent.com/markohlebar/Peckham/master/Misc/Peckham.gif"
+      },
+      {
+        "name": "AMMethod2Implement",
+        "url": "https://github.com/MellongLau/AMMethod2Implement",
+        "description": "A simple Xcode plugin to generate implement code for the selected method.",
+        "screenshot": "https://raw.github.com/MellongLau/AMMethod2Implement/master/Screenshots/usageScreenshot.gif"
+      },
+      {
+        "name": "AtAutoCompletion",
+        "url": "https://github.com/wzqcongcong/AtAutoCompletion",
+        "description": "Enable [@ auto completion] in Xcode 6 & 7 (Xcode 5 already has this feature)",
+        "screenshot": "https://raw.githubusercontent.com/wzqcongcong/AtAutoCompletion/master/screenshot/screenshot.png"
+      },
+      {
+        "name": "FuzzyAutocomplete",
+        "url": "https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin",
+        "description": "Enables fuzzy matching in Xcode's autocomplete, using the 'Open Quickly' algorithm.",
+        "screenshot": "https://raw.github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin/master/demo.gif"
+      },
+      {
+        "name": "GitDiff",
+        "url": "https://github.com/johnno1962/GitDiff",
+        "description": "Highlights differences against git repo in Xcode source editor.",
+        "screenshot": "http://injectionforxcode.johnholdsworth.com/gitdiff.png"
+      },
+      {
+        "name": "KSImageNamed",
+        "url": "https://github.com/ksuther/KSImageNamed-Xcode",
+        "description": "Xcode plug-in that provides autocomplete for imageNamed: calls",
+        "screenshot": "https://raw.githubusercontent.com/ksuther/KSImageNamed-Xcode/master/screenshot.gif"
+      },
+      {
+        "name": "MLAutoReplace",
+        "url": "https://github.com/molon/MLAutoReplace",
+        "description": "Re-Intent, make you write code more quickly.",
+        "screenshot": "https://raw.githubusercontent.com/molon/MLAutoReplace/master/replaceTS.gif"
+      },
+      {
+        "name": "VVDocumenter-Xcode",
+        "url": "https://github.com/onevcat/VVDocumenter-Xcode",
+        "description": "Xcode plug-in which helps you write Javadoc style documents easier.",
+        "screenshot": "https://raw.github.com/onevcat/VVDocumenter-Xcode/master/ScreenShot.gif"
+      },
+      {
+        "name": "XAlign",
+        "url": "https://github.com/qfish/XAlign",
+        "description": "An amazing Xcode plugin to align regular code. It can align Xnything in any way you want.",
+        "screenshot": "https://raw.github.com/qfish/XAlign/gh-pages/images/equal.gif"
+      },
+      {
+        "name": "XActivatePowerMode",
+        "url": "https://github.com/qfish/XActivatePowerMode",
+        "description": "An Xcode plug-in makes activate-power-mode happen in your Xcode.",
+        "screenshot": "http://7d9o0x.com1.z0.glb.clouddn.com/XActivatePowerModepreview.gif"
+      }
+    ]
+  }
+}
